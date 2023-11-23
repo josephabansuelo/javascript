@@ -4,6 +4,7 @@
   <body>
     <title>Coin Flip</title>
     <p>Coin Flip</p>
+    <p>work in progress, game plays out in console</p>
 
     
     <button onclick = "
